@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aeb0efb-ab56-4e87-a1af-7c1111c97c99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7aeb0efb-ab56-4e87-a1af-7c1111c97c99" name="Default" comment="" />
     <ignored path="seckill.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/web/SeckillController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -1001,7 +999,7 @@
       <workItem from="1518315603079" duration="1163000" />
       <workItem from="1518317459634" duration="597000" />
       <workItem from="1518334540079" duration="3158000" />
-      <workItem from="1518338909978" duration="4806000" />
+      <workItem from="1518338909978" duration="5419000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1518335095512</created>
@@ -1074,7 +1072,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151958000" />
+    <option name="totallyTimeSpent" value="152571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1506,7 +1504,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/web/SeckillController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding />
         </state>
       </provider>
